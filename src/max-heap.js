@@ -7,7 +7,7 @@ class MaxHeap {
     }
 
     push(data, priority) {
-        this.insertNode(42);
+        parentNodes.insertNode(42);
         //this.insertNode(priority);
     }
 
