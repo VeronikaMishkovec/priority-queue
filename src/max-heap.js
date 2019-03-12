@@ -7,11 +7,8 @@ class MaxHeap {
     }
 
     push(data, priority) {
-        this.insertNode.firstCall.args[0];
-        this.insertNode.firstCall.args[0].data;
-        this.insertNode.firstCall.args[0].priority;
-        //this.insertNode(42);
-        //this.insertNode(15);
+        this.insertNode(data);
+        this.insertNode(priority);
     }
 
     pop() {
